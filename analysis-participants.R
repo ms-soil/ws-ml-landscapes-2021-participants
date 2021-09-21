@@ -3,15 +3,16 @@
 # Workshop: Machine Learning for (soil) parameter prediction in R - A practical introduction
 # Date: Thursday, September 23, 2021
 # Conference: Landscape 2021
-# Repository: https://github.com/ms-soil/ws-ml-landscapes-2021
-# Main contributors: Marcus Schmidt (marcus.schmidt@zalf.de) and Masahiro Ryo (masahiro.ryo@zalf.de)
+# Repository: https://github.com/ms-soil/ws-ml-landscapes-2021 (private)
+# Main code contributors: Marcus Schmidt (marcus.schmidt@zalf.de) and Masahiro Ryo (masahiro.ryo@zalf.de)
 #
 #######################################################
 
 
-#### GET DATA FROM ISRIC ####
-# see data-download.odt how to get raster data from isric
-# get a similar code at:
+#### DATA FROM ISRIC (soilgrids.org) ON CC-BY license ####
+
+#### NOTE ####
+# see a similar, commented project at:
 # https://github.com/ms-soil/ds-submission-soil/blob/main/analysis-report.pdf
 
 
