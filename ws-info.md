@@ -1,14 +1,17 @@
 ## **Workshop info machine learning in R - Sept. 23rd 2021**
 
+### Prior knowledge:
+To make most out of the workshop, you should be generally comfortable in R & ideally be able to write you own functions.
+
 ### Zoom link:
 [Enter Zoom session here](https://us06web.zoom.us/j/81086897020?pwd=RDFrUWtWT1RKeWcrOUl4cGRqRXpFdz09)
 
 ### Download R project
-[Download folder zip here](https://github.com/ms-soil/ws-ml-landscapes-2021-participants/archive/refs/heads/main.zip)
+[Download folder zip here](https://github.com/ms-soil/ws-ml-landscapes-2021-participants/archive/refs/heads/main.zip) - then extract and open the .Rproj file.
 
 [workshop code here (running version regularly updated during workshop)](https://pad.gwdg.de/kPXP5uwQRAmJFZltKKiFog?view)
 
-### Schedule:
+### Schedule (Berlin time!):
 9:30 Welcome
 
 9:40 - 10:30 Introduction
@@ -38,3 +41,5 @@
 
 * Install packages: 
 *raster, rgdal, tidyverse, caret, e1071, rpart, rpart.plot, randomForest, vip, pdp, ggpubr*
+
+* go through the analysis-participants.R file. This, especially then cleaned up data (can be loaded from data/clean_data.rda) is the basis for where the workshop will start.
