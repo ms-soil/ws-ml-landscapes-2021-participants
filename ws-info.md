@@ -9,6 +9,8 @@ To make most out of the workshop, you should be generally comfortable in R & ide
 ### Download R project
 [Download folder zip here](https://github.com/ms-soil/ws-ml-landscapes-2021-participants/archive/refs/heads/main.zip) - then extract and open the .Rproj file.
 
+[Please fill in google form here](https://forms.gle/WP7T6t6UQWNrWRfz9)
+
 [workshop code here (running version regularly updated during workshop)](https://pad.gwdg.de/kPXP5uwQRAmJFZltKKiFog?view)
 
 ### Schedule (Berlin time!):
